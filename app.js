@@ -8,7 +8,7 @@ app.get('/', (req, res) => {
     <!DOCTYPE html>
     <html>
     <head>
-      <title>DevSceOps Monitoring App - Muhammad Mubashar Karamat Ali</title>
+      <title>Cloud DevSceOps Monitoring App - Muhammad Mubashar Karamat Ali</title>
       <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { font-family: 'Segoe UI', sans-serif; background: #0f172a; color: #e2e8f0; }
