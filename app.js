@@ -127,7 +127,7 @@ app.get('/', (req, res) => {
         </div>
         <div class="header-right">
           <div class="dev-name">👨‍💻 Muhammad Mubashar Karamat Ali</div>
-          <div class="dev-title">Junior DevSecOps Engineer</div>
+          <div class="dev-title">Junior Cloud DevSecOps Engineer</div>
           <div class="dev-stack">AWS • Terraform • Jenkins • Docker • Kubernetes</div>
         </div>
       </header>
